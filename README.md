@@ -1,4 +1,4 @@
-# Nettkurs: Programmering i Python
+# Programmering i Python
 
 ## Hva er denne siden?
 På denne siden deler vi kursmateriale for vårt krasjkurs i Python. Materialer legger vi ut etterhvert som kurset går, kom derfor gjerne tilbake ved en senere anledning for å finne nyere materialer!
