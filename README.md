@@ -10,6 +10,12 @@ Kurset vil passe for deg som har lite eller ingen programmeringserfaring fra fø
 På kurset skal vi kode sammen i et program som heter [Thonny](https://thonny.org/). Vi ber dere derfor installere dette programmet på forhånd og har laget en liten instalasjonsguide for Windows og Mac som du finner [her](https://github.com/kodeskolen/simula-kodekurs-v23/blob/main/Thonny%20installasjonsguide.pdf).
 
 ## Materiale
+### Oppgaver
+Oppgaver legges ut underveis i kurset og løsningsforslagene kommer noen dager etter hver kursdag.
+
+ * [Oppgaver dag en](oppgaver/oppgaver_dag1.pdf)
+ * [Bonusoppgaver dag en](oppgaver/oppgaver_dag1_bonus.pdf)
+ 
 ### Kompendium og jukselapp
 Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget for kurset [STKD6700 Introduction to Programming I](https://student.oslomet.no/studier/-/studieinfo/emne/STKD6700/2020/H%C3%98ST), og dekker dermed det vi går igjennom i dette kurset og litt mer. Kompendiet er en fin ressurs både for å slå opp temaer vi går igjennom i dette kurset og for å lære mer programmering på egenhånd.
 
