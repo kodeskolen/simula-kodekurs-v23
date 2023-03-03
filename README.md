@@ -14,7 +14,10 @@ På kurset skal vi kode sammen i et program som heter [Thonny](https://thonny.or
 Oppgaver legges ut underveis i kurset og løsningsforslagene kommer noen dager etter hver kursdag.
 
  * [Oppgaver dag en](oppgaver/oppgaver_dag1.pdf)
+   * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag1.pdf)
  * [Bonusoppgaver dag en](oppgaver/oppgaver_dag1_bonus.pdf)
+   * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag1_bonus.pdf)
+ 
 
 ### Kode fra plenumsgjennomgang
 Kode fra plenumsgjennomgang legges ut etter undervisningsøktene.
