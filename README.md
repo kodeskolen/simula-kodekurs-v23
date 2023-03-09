@@ -46,5 +46,9 @@ En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget "
 
 Offisiel Python dokumentasjon:
 * Nettsiden for all Python dokumentasjon finner du [her](https://docs.python.org/3/library/index.html)
+
+* [Her](https://docs.python.org/3/library/stdtypes.html#string-methods) er dokumentasjonen til tekststrengevariabler
+* [Her](https://docs.python.org/3/library/stdtypes.html#lists) er dokumentasjonen til listevariabler
+
 * [Her](https://docs.python.org/3/py-modindex.html) er en liste over alle innebygde Python pakker (slik som f.eks. `random`) du kan importere fra
 * [Her](https://docs.python.org/3/library/functions.html) er en liste over alle innebygde funksjoner du kan bruke uten å importere (slik som f.eks. `print`)
