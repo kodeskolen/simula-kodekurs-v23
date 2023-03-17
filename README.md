@@ -17,7 +17,7 @@ Oppgaver legges ut underveis i kurset og løsningsforslagene kommer noen dager e
    * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag1.pdf)
  * [Bonusoppgaver dag en](oppgaver/oppgaver_dag1_bonus.pdf)
    * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag1_bonus.pdf)
- * [Oppgaver dag to](oppgaver/oppgaver_dag2.pdf)
+ * [Oppgaver dag to](oppgaver/Oppgaver_dag2.pdf)
    * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag2.pdf)
  * [Oppgaver dag tre](oppgaver/oppgaver_dag3.pdf)
    * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag3.pdf)
