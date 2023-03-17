@@ -17,12 +17,20 @@ Oppgaver legges ut underveis i kurset og løsningsforslagene kommer noen dager e
    * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag1.pdf)
  * [Bonusoppgaver dag en](oppgaver/oppgaver_dag1_bonus.pdf)
    * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag1_bonus.pdf)
+ * [Oppgaver dag to](oppgaver/oppgaver_dag2.pdf)
+   * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag2.pdf)
+ * [Oppgaver dag tre](oppgaver/oppgaver_dag3.pdf)
+   * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag3.pdf)
+ * [Bonusoppgaver dag tre](oppgaver/oppgaver_dag3_bonus.pdf)
+   * [Løsningsforslag](oppgaver/løsningsforslag_oppgaver_dag3_bonus.pdf)
  
 
 ### Kode fra plenumsgjennomgang
 Kode fra plenumsgjennomgang legges ut etter undervisningsøktene.
 
  * [Dag 1](undervisningsmateriale/dag1/live_koding/)
+ * [Dag 2](undervisningsmateriale/dag2/)
+ * [Dag 3](undervisningsmateriale/dag3/)
 
 ### Kompendium og jukselapp
 Kompendiet for kurset finner du [her](kompendium.pdf). Dette kompendiet er laget for kurset [STKD6700 Introduction to Programming I](https://student.oslomet.no/studier/-/studieinfo/emne/STKD6700/2020/H%C3%98ST), og dekker dermed det vi går igjennom i dette kurset og litt mer. Kompendiet er en fin ressurs både for å slå opp temaer vi går igjennom i dette kurset og for å lære mer programmering på egenhånd.
